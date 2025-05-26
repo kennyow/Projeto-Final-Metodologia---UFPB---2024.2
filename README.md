@@ -37,3 +37,17 @@ O projeto utiliza:
 
 ## 📁 Estrutura esperada do projeto
 
+
+
+## ⚠️ Avisos
+
+- Os dados utilizados são públicos e foram extraídos de fontes oficiais.
+- O projeto não tem viés político, e tem como única finalidade a **análise técnica e estatística de conformidade legal**.
+
+## 👤 Autor / Responsável
+
+Este projeto foi desenvolvido como parte de um trabalho de análise de dados voltado ao controle e transparência na administração pública.
+
+---
+
+
